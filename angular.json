@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "khafchraitPortfolio"
+    }
+  },
+  "defaultProject": "khafchraitPortfolio",
+  "cli": {
+    "analytics": "09733ad9-0d03-4a89-832b-2c792a3723a9"
+  }
 }
