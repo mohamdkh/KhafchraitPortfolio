@@ -16,7 +16,7 @@ export const GestionParking: IProject = {
     'Visualiser les places vides dans un parking',
 
   ],
-  tags: ['autre'],
+  tags: ['java'],
   techStuff: [
     "JAVA","JAVAFX"
 

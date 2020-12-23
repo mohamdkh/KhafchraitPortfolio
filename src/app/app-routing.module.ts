@@ -27,6 +27,10 @@ const routes: Routes = [
     path:'profile-card',
     component: ProfileCardComponent
   }
+  ,
+  {
+    path: '', redirectTo: '/', pathMatch: 'full'
+  }
 ];
 
 @NgModule({

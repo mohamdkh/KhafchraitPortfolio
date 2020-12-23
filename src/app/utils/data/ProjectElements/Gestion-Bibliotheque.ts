@@ -17,7 +17,7 @@ export const GestionBibliotheque: IProject = {
     "Création d'un espace Admin"
 
   ],
-  tags: ['autre'],
+  tags: ['java'],
   techStuff: [
     "JAVA","JAVAFX","Conception UML"
   ],

@@ -19,19 +19,21 @@ import {ProjetGeomatique} from './data/ProjectElements/ProjetGeomatique'
 import { dashCaseToCamelCase } from '@angular/compiler/src/util';
 const getAllProject = () => {
   const projects = [
-    ProjetGeomatique,
-    BidonvilleApp,
-    ConceptionInforisk,
     AnalyseConsommation,
     PlatformeSnifly,
+    ProjetGeomatique,
     TransactionImm,
+    BidonvilleApp,
     Covid19App,
     ReservationAerienne,
     ECommerce,
-    NoteUrbanistique,
     GestionBibliotheque,
     GestionParking,
     JeuGoData,
+    ConceptionInforisk,
+     NoteUrbanistique,
+   
+   
   ];
 
   if (!environment.production) {
