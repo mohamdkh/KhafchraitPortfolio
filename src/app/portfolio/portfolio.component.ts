@@ -38,7 +38,7 @@ export class PortfolioComponent implements OnInit {
     this.tagsService.onTagUpdate.subscribe(() => {
       if (updateCount === 0) {
         this.animatedTypingText =
-          'Excellent travail ! 😊';
+          'Good job ! 😊';
         updateCount++;
       }
     });
